@@ -8,7 +8,7 @@ Test.csv: [2500 x 11 excluding the headers] contains Test data
 sample_submission.csv: contains a sample of the format in which the Results.csv needs to be
 # Data Description:
 
-##Columns	Description
+## Columns	Description
 -Accident_ID	unique id assigned to each row\
 -Accident_Type_Code	the type of accident (factor, not numeric)\
 -Cabin_Temperature	the last recorded temperature before the incident, measured in degrees fahrenheit\
